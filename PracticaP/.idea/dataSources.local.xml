@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="dataSourceStorageLocal">
+    <data-source name="Django default" uuid="0c07e93e-c375-44d9-a336-afbacfdaddc4">
+      <auth-required>false</auth-required>
+    </data-source>
+    <data-source name="Django default2" uuid="36378bd3-9a0b-4078-83cb-bc64b4594d17">
+      <auth-required>false</auth-required>
+      <first-sync>true</first-sync>
+    </data-source>
+    <data-source name="Django default3" uuid="5602fa93-0f7b-4f35-9be8-b7291c682a62">
+      <auth-required>false</auth-required>
+    </data-source>
+    <data-source name="Django default4" uuid="33a6637f-14e5-4c77-8d38-62a09e399c8f">
+      <auth-required>false</auth-required>
+    </data-source>
+  </component>
+</project>
